@@ -3,8 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Plantonic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/btn_back.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/list_l.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_icon.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_icon_water.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_settings.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_sun_icon.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/navbackground.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/plant_nav_ic.xml" value="0.28512820512820514" />
         <entry key="..\:/Plantonic/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Plantonic/app/src/main/res/layout/activity_main2.xml" value="0.19519927536231885" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/recycler_list_view.xml" value="0.367911479944675" />
         <entry key="..\:/Plantonic/app/src/main/res/menu/bottombar.xml" value="0.2734375" />
       </map>
     </option>
