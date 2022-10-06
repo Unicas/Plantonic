@@ -3,7 +3,7 @@
     <style name="Theme.Plantonic" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/plant_green</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimaryVariant">#355737</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
@@ -12,5 +12,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">#39C838</item>
         <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/font</item>
+        <item name="font">@font/font</item>
     </style>
 </resources>

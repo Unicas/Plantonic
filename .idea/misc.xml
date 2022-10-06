@@ -5,17 +5,28 @@
       <map>
         <entry key="..\:/Plantonic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28512820512820514" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/btn_back.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/infobg.xml" value="0.159375" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/list_l.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/list_t.xml" value="0.26944444444444443" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_icon.xml" value="0.28512820512820514" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_icon_water.xml" value="0.28512820512820514" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_settings.xml" value="0.28512820512820514" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/nav_sun_icon.xml" value="0.28512820512820514" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/navbackground.xml" value="0.28512820512820514" />
         <entry key="..\:/Plantonic/app/src/main/res/drawable/plant_nav_ic.xml" value="0.28512820512820514" />
+        <entry key="..\:/Plantonic/app/src/main/res/drawable/tcard.xml" value="0.26944444444444443" />
+        <entry key="..\:/Plantonic/app/src/main/res/font-v26/font.xml" value="0.1734375" />
+        <entry key="..\:/Plantonic/app/src/main/res/font/abas.xml" value="0.1734375" />
+        <entry key="..\:/Plantonic/app/src/main/res/font/font.xml" value="0.1734375" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout-v28/recycler_list_view.xml" value="0.13297872340425532" />
         <entry key="..\:/Plantonic/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Plantonic/app/src/main/res/layout/activity_main2.xml" value="0.22" />
-        <entry key="..\:/Plantonic/app/src/main/res/layout/fragment_home.xml" value="0.18" />
-        <entry key="..\:/Plantonic/app/src/main/res/layout/recycler_list_view.xml" value="0.367911479944675" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/fragment_view_plant.xml" value="0.25" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/recycler_list_view.xml" value="0.429126213592233" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/recyler_view_list.xml" value="0.429126213592233" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/sp.xml" value="0.12273550724637682" />
+        <entry key="..\:/Plantonic/app/src/main/res/layout/water_plants.xml" value="0.25" />
         <entry key="..\:/Plantonic/app/src/main/res/menu/bottombar.xml" value="0.2734375" />
       </map>
     </option>
